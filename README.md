@@ -55,33 +55,6 @@ Meu objetivo é conquistar minha primeira oportunidade como **Desenvolvedor Jún
 
 ---
 
-
-
----
-
-## 📊 Estatísticas GitHub
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=nicolascmoreira&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nicolascmoreira&layout=compact&theme=tokyonight"/>
-
-</div>
-
----
-
-## 🔥 Sequência de Contribuições
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=nicolascmoreira&theme=tokyonight" />
-
-</div>
-
----
-
-
 ## 🌎 Onde Me Encontrar
 
 <div align="center">
